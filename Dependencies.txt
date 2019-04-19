@@ -1,0 +1,2 @@
+Slick2D - http://slick.ninjacave.com/
+lwjgl - https://www.lwjgl.org/
